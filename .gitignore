@@ -1,0 +1,17 @@
+/vendor/
+
+.idea/vcs.xml
+
+.idea/Project9.iml
+
+.idea/php.xml
+
+.idea/modules.xml
+
+.idea/workspace.xml
+
+.idea/codeception.xml
+
+.idea/phpspec.xml
+
+.idea/phpunit.xml
